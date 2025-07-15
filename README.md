@@ -1,4 +1,4 @@
-<h2> CHECKPOINT - Computational Thinking with Python <h2/>
+#CHECKPOINT - Computational Thinking with Python
 <h3>Exercício 1</h3>
 Em uma competição de salto em distância participam vários atletas, onde cada atleta tem direito a cinco
 saltos.
